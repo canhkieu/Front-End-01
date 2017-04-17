@@ -1,3 +1,9 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
 #app{
     margin: 0 auto;
     width: 900px;
@@ -54,7 +60,7 @@
 #right-content{
     width: 70%;
     height: 400px;
-    background: black;
+    
     float: left;
 }
 
